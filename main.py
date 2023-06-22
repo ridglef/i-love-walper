@@ -3,7 +3,7 @@ from datetime import datetime
 from flask import Flask
 
 server_address = "" #include port
-gif_url = "https://media.tenor.com/O0TyL2rC55AAAAAC/minecraft.gif"
+gif_url = ""
 create_year = 1924
 create_month = 6
 create_day = 22
